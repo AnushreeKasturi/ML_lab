@@ -39,7 +39,7 @@ def calculate_similarity(v1, v2):
 
 def main():
 
-    filename = "Lab Session Data .xlsx"
+    filename = "Lab Session Data    .xlsx"
 
     df = load_data(filename)
 
