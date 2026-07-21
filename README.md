@@ -6,7 +6,7 @@ This repository contains my Machine Learning laboratory assignments completed as
 
 ## Course Information
 
-- **Course:** Machine Learning Lab
+- **Course:** Machine Learning 
 - **Language:** Python 3
 
 ---
