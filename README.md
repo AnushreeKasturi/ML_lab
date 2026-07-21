@@ -47,7 +47,11 @@ ML_lab/
 ---
 
 ## Assignments
+## week 1 – Python Programming Fundamentals
 
+Introduces fundamental Python programming concepts through modular programming. The assignments involve working with lists, strings, matrices, and basic statistical computations while following structured coding practices.
+
+### week2:-
 ### A1 – Matrix Operations and Pseudo Inverse
 - Loaded data from Excel using Pandas
 - Constructed feature matrix (X) and output vector (y)
